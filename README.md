@@ -5,4 +5,4 @@ This repository contains the official PyTorch implementation and a representativ
 Researchers can utilize this sample subset to fully verify our network architecture, training pipeline, and inference logic.
 
 1. pip install -r requirements.txt
-2. python train.py --data sample_dataset/data.yaml --cfg models/LRA-YOLO.yaml
+2. python train.py
